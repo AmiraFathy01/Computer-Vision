@@ -9,7 +9,8 @@ If successful, you'll help brain cancer patients receive less invasive diagnoses
 
 # DataSet
 https://www.kaggle.com/datasets/volodymyrpivoshenko/brain-mri-scan-images-tumor-detection/data
-classes: normal, benign, and malignant images.
+
+classes: negative, positive
 
  we have:
  
