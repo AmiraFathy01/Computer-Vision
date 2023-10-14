@@ -1,22 +1,22 @@
 # Brain Tumor 
 
 # Introduction 
-Breast cancer is one of the most common causes of death among women worldwide. Early detection helps in reducing the number of early deaths.
-The data reviews the medical images of breast cancer using ultrasound scan. 
-Breast Ultrasound Dataset is categorized into three classes: normal, benign, and malignant images.
+A malignant tumor in the brain is a life-threatening condition. Known as glioblastoma, it's both the most common form of brain cancer in adults and the one with the worst prognosis, with median survival being less than a year. The presence of a specific genetic sequence in the tumor known as MGMT promoter methylation is a favorable prognostic factor and a strong predictor of responsiveness to chemotherapy.
+
+Currently, genetic analysis of cancer requires surgery to extract a tissue sample. Then it can take several weeks to determine the genetic characterization of the tumor. Depending upon the results and type of initial therapy chosen, subsequent surgery may be necessary. If an accurate method to predict the genetics of cancer through imaging (i.e., radiogenomics) alone could be developed, this would potentially minimize the number of surgeries and refine the type of therapy required.
+
+If successful, you'll help brain cancer patients receive less invasive diagnoses and treatments. The introduction of new and customized treatment strategies before surgery has the potential to improve the management, survival, and prospects of patients with brain cancer.
 
 # DataSet
-https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
-
-classes: normal, benign, and malignant images.\
+https://www.kaggle.com/datasets/volodymyrpivoshenko/brain-mri-scan-images-tumor-detection/data
+classes: normal, benign, and malignant images.
 
  we have:
  
- 891  images :  benign
+ 98  images :  negative
  
- 266  images :  normal
+ 129  images :  positive
  
- 421  images :  malignant
 
 ![image](https://github.com/AmiraFathy01/breast_cancer_cnn/assets/79209830/2213e24b-6f82-44f4-b04c-11b017bf11d6)
 
