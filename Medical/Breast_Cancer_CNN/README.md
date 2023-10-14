@@ -8,7 +8,7 @@ Breast Ultrasound Dataset is categorized into three classes: normal, benign, and
 # DataSet
 https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
 
-classes: normal, benign, and malignant images.\
+classes: normal, benign, and malignant images.
 
  we have:
  
@@ -18,19 +18,18 @@ classes: normal, benign, and malignant images.\
  
  421  images :  malignant
 
-![image](https://github.com/AmiraFathy01/breast_cancer_cnn/assets/79209830/2213e24b-6f82-44f4-b04c-11b017bf11d6)
+![image](https://github.com/AmiraFathy01/Breast_Cancer_CNN/assets/79209830/12bb47e9-28aa-410b-8881-106506c338c7)
 
 # Training result 
 
 Accuracy 99.9% - 100% .
-
-![image](https://github.com/AmiraFathy01/breast_cancer_cnn/assets/79209830/82198c26-2873-4aee-89ad-388bd986265b)
-![image](https://github.com/AmiraFathy01/breast_cancer_cnn/assets/79209830/af250baf-d599-4d77-b994-19174d767a59)
+![image](https://github.com/AmiraFathy01/Breast_Cancer_CNN/assets/79209830/303c4fb9-2dfb-4e1d-a1ae-3a1b2bbcff00)
 
 
 # Testing result 
 Accuracy  100% .
-![image](https://github.com/AmiraFathy01/breast_cancer_cnn/assets/79209830/2f5f75fa-4e8a-46fc-958a-bd78255dd30b)
+![image](https://github.com/AmiraFathy01/Breast_Cancer_CNN/assets/79209830/78663bf1-9a4d-4075-841d-75ddd88ff2ec)
+![image](https://github.com/AmiraFathy01/Breast_Cancer_CNN/assets/79209830/63f33137-ea04-48a9-8cd5-feece588d25e)
 
 example 
-![image](https://github.com/AmiraFathy01/breast_cancer_cnn/assets/79209830/3c6a6d4e-2e18-4496-9961-5cac4fe17934)
+![image](https://github.com/AmiraFathy01/Breast_Cancer_CNN/assets/79209830/7350cb25-264c-499d-b05a-2c2e5fee91c8)
