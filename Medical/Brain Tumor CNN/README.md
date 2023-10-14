@@ -1,4 +1,4 @@
-# breast_cancer_cnn
+# Brain Tumor 
 
 # Introduction 
 Breast cancer is one of the most common causes of death among women worldwide. Early detection helps in reducing the number of early deaths.
